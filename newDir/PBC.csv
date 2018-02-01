@@ -1,14 +1,4 @@
 Subject_ID,age,alb,ascites,bili,edema,edtrt,time,platelet,sex,stage,treatment
-1,58.77,2.6,1,14.5,1,1,400,190,Male,4,Treatment A
-3,70.07,3.48,0,1.4,1,0.5,1012,151,Female,4,Treatment A
-4,54.74,2.54,0,1.8,1,0.5,1925,183,Male,4,Treatment A
-6,66.26,3.98,0,0.8,0,0,2503,-9,Male,3,Treatment B
-8,53.06,4,0,0.3,0,0,2466,373,Male,3,Treatment B
-9,42.51,3.08,0,3.2,0,0,2400,251,Male,2,Treatment A
-10,70.56,2.74,1,12.6,1,1,51,302,Male,4,Treatment B
-11,53.71,4.16,0,1.4,0,0,3762,258,Male,4,Treatment B
-12,59.14,3.52,0,3.6,0,0,304,71,Male,4,Treatment B
-14,56.22,2.27,1,0.8,1,1,1217,156,Female,4,Treatment B
 15,64.65,3.87,0,0.8,0,0,3584,295,Male,3,Treatment A
 17,52.18,3.15,0,2.7,0,0,769,224,Male,4,Treatment B
 18,53.93,2.8,0,11.4,1,1,131,283,Male,4,Treatment A
